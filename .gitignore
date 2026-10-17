@@ -1,0 +1,7 @@
+#directories
+/data
+/project_venv
+.idea/
+
+# files
+Task.pdf
